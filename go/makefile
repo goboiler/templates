@@ -6,10 +6,10 @@ clean:
 	@rm -rf out
 	@go clean -cache
 
-bin/main: **/main/main.go
+bin/main: **/main.go
 	@go build -ldflags="-s -w" -o $@ $<
 
-out/linux_amd64: **/main/main.go
+out/linux_amd64: **/main.go
 	@GOOS=linux GOARCH=amd64 go build -ldflags="-s -w" -o $@ $<
 	@upx --best --lzma $@
 
