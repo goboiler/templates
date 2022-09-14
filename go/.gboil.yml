@@ -1,8 +1,6 @@
 name: go
-sha: 1b5365b4568477323d6e4062d7aedd30b8368dfc41df2253a6f8899f5afd4ef0
+sha: 94882aa5aabd5e67255b6b5434cc32382dab78f6992629ef62e58780aeb8e903
 files:
-    - path: .gboil.yml
-      sha: 0fb96c4c80dec4add5ed6a2121ca8b3f72576cfae6353631af14ad472d561842
     - path: cmd/README.md
       sha: 57d5adc0930f2eabd75452dc914a0c5821c27b40c9fc048eb86a369e82d70496
     - path: cmd/main/main.go
