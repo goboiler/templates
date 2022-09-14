@@ -1,0 +1,85 @@
+name: rust-starter
+sha: 395440c8716cb6ad961844e9f27ea75509124acf513906b1796711907581122e
+files:
+    - path: .clog.toml
+      sha: 5e945368e695a6a45e15ea460682cb81bf073816348e8d4a2dccc5406d4da2f4
+    - path: .github/CONTRIBUTING.md
+      sha: d54ad668fa19d7d40f5d8fd8df7bd60192bd45664faf194c68b96f0f65d6d5ba
+    - path: .github/ISSUE_TEMPLATE.md
+      sha: 3d4977bc2050d9c946e75931fd4c186e726bb430c12be521a34da4e2cd0bd0ad
+    - path: .github/workflows/audit.yml
+      sha: 4e98a3812121175d84556e2344313f5275c4f28e510c36923273af3307b33db9
+    - path: .github/workflows/build.yml
+      sha: 7e052a5f669c98cafc854b56a1f526b02a1b6b730522932fb0064a98dcb44c22
+    - path: .github/workflows/codecov.yml
+      sha: cb4ff11b93794975cc9fbe6ed6b3f18c888d7112b8f3d35282e71a4d0e86c40a
+    - path: .github/workflows/docker.yml
+      sha: 00923b1c0a09773cf15b911713b65c48a913a57ef3c7840552ca032dbd1c4db8
+    - path: .github/workflows/lint.yml
+      sha: d2f50270c4cb990c1254189d33943c764ffd418e442d18ad87d7352ffa9fdede
+    - path: .github/workflows/tests.yml
+      sha: b23c658b95f7168ec49d22e120eb0e099340183cffa00b7c962143066f8b8e9e
+    - path: .github/workflows/toc.yml
+      sha: 91ff3413777e3be203c534a4db5475e59754482fe6381640d2d8d439f2fe079a
+    - path: .gitignore
+      sha: 995006da964fc8dda5d5e3d57c857ffbb380795d6777c997262aa2e3ea91194e
+    - path: CHANGELOG.md
+      sha: 93964a3898b444ca45800a28a1e34a0cf40337bf971980337373b9e14ad36704
+    - path: Cargo.toml
+      sha: 1787569614afbdd1879065d52af6fd9fd0840b49b9310b2cc9f08ed22bde369a
+    - path: LICENSE
+      sha: 900324f1cfeeedd9b0cfbd66c19c5d35b7a7fac34b7185cc0e0a904167c47b49
+    - path: README.md
+      sha: bd7e148e25852d86dda99c61fec257c7e177285e76885ee402945474c62df608
+    - path: SECURITY.md
+      sha: 9bf571646bb6c6704bdd676e884b7f32e7048c27b969740a912e3fa36b618026
+    - path: cargo-graph.dot
+      sha: 4314e25b498128ef87a2e64d2f210219831d58e26ca2021f8692589e33012f3b
+    - path: cargo-graph.png
+      sha: 8939c3b61d0e5815354588ab18cda7a87e98716a916b833b354bfa363354f063
+    - path: cli/Cargo.toml
+      sha: e6b83eeae51494e35d98e11b0b93707606d864dcb62f51c1edb96a579bdd3efb
+    - path: cli/src/lib.rs
+      sha: 54ca3c9328cb5bce2d172d17cee2316d18fefc7dba573c9464dcd9d05e416bd9
+    - path: core/Cargo.toml
+      sha: a2f846e5df188aef21b06b222f9d7a096efa25e52539189fe166a1d5023ebfe6
+    - path: core/benches/01_default.rs
+      sha: d9dd8c477138b4d098069b7296e0b5b8b3429af6095237a43074a28489d17bbd
+    - path: core/src/commands.rs
+      sha: 7701d81f4cafbba1fd7a59cee96870c14a9db26629b66460f6edae471356f387
+    - path: core/src/error.rs
+      sha: f5077976a159fe13ca3f5c919caab2a17c45545f0c2b6fb884f68b9ad542d069
+    - path: core/src/hazard.rs
+      sha: c8240dc317774d31e0ee2a86cbf2504ad4c8572a2e5c43d5e1d5d3452d91d7bb
+    - path: core/src/lib.rs
+      sha: 271a2a0ad57e8a75af59a292c1383fc99f955fa176176b34b43bc3d20bf75140
+    - path: docker/.dockerignore
+      sha: bcccc1f08bef55b23fcf56b8cbc5faf48a0d10f1fdb9bcebdf1f89daa141e563
+    - path: docker/Dockerfile
+      sha: eb2984577846afd1e9d221e09155733ef495660ad9ec6102fcb27cb76e00628c
+    - path: justfile
+      sha: c0265a1803e4ddb21d3ebce5b50e4d983b865e8ae47edc1b937a566301b97e03
+    - path: rustfmt.toml
+      sha: 7a6369ab19dca359eebd9480c1677cf61f435fa0be8be091bafca86a7909c686
+    - path: src/main.rs
+      sha: aa5abcf6235394cf6459217faa8a0e3f509216d6e2688d21b8d7af6866506235
+    - path: src/resources/default_config.toml
+      sha: 0ee38d5c1b41f0c258c314024d8f812c91a34d1bd3c042a2ded99a2963dc7e8f
+    - path: tests/test_cli.rs
+      sha: 91360bdc0c3e4a3029ceb3f7fa5a11788f29098b54601c95001f0d746ec1fdf1
+    - path: utils/Cargo.toml
+      sha: edff9975c051add1578d40cb3a895031f37e3342956feaccdb1650d8fe23251e
+    - path: utils/src/app_config.rs
+      sha: 6c1e64d2a18cdbf44c2937b2d50cdfca76cbdb88b5a0bd0aa04378eddcd141e4
+    - path: utils/src/error.rs
+      sha: 9ffa9ac43ba324803507d8c999d8388e51d8aada288b6f1ba36136462f6d7917
+    - path: utils/src/lib.rs
+      sha: 869b6efff78aff8cc04de21d498f370b198fb57dbce3b7fb6d5590e4085590ce
+    - path: utils/src/logger.rs
+      sha: db3369bac0ab8a276f24862691f7f0e609b924c413bc5014eb30fefc94d28f76
+    - path: utils/src/types.rs
+      sha: 75dabcebd614c61bca8efe2e5098a7093f45ae17e6de72d8519995d3039fcfab
+    - path: utils/tests/resources/test_config.toml
+      sha: 128afe4d304769f1e3accdb2c19e0a1944365c47709f64919e2b6aebb524f3cd
+    - path: utils/tests/test_config.rs
+      sha: d818f970ec7969daf26b5958331e1087ebdab3b347cbefdc9d264c2eb15ff321
