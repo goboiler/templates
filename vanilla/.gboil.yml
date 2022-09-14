@@ -1,0 +1,19 @@
+name: vanilla
+sha: 4db14e4574e5d239ebc497b4d409f377b26aaf55e9632b69169b8446cff9fe98
+files:
+    - path: .gitignore
+      sha: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
+    - path: counter.js
+      sha: 69a40bd4c099386aab15c616036df35711daed61a8c9a3544d4b0ac4ff232324
+    - path: index.html
+      sha: de243c886d5185174056f7e3f6b6fcd49e20f5d24d14bde6ee4935625a05a730
+    - path: javascript.svg
+      sha: 8dac53799104214c30769aa44c25a16b3c8c86f7c6c6e46fb1996e63ab5d828e
+    - path: main.js
+      sha: 21d043598fd1ab04142498b920007613e1db4de1b4f6c4141c8416c177cbf1ed
+    - path: package.json
+      sha: c471b3169140803120c6aae64a0b17f43ae22a558b5d87e338fe930b6c5fc583
+    - path: public/vite.svg
+      sha: 4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb
+    - path: style.css
+      sha: e45da0a1d814b5442b9f7f2f8a38ba61e6fc75270748ea9ade16892a8f8f58be
