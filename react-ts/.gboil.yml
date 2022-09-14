@@ -1,8 +1,6 @@
 name: react-ts
-sha: 42b4404b851c351f2f93321f12b9f716dce8cf3cd571f1c342afc8e9793fde2e
+sha: 7360c02c987f83b6da9cbf8315b43076e0214b36f70b8b9e57c563bbc1f88020
 files:
-    - path: .gboil.yml
-      sha: 86a7e9f2a2ec58d2573ec5ea73a5d0ada8e05e60c9fd0bceff844002abf1efee
     - path: .gitignore
       sha: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
     - path: index.html
