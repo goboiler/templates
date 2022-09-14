@@ -1,8 +1,6 @@
 name: microgo
-sha: ddbeb3b90d8019dd78effbd0104a62d2fe5713f3b9fbd04ec363075a6f57520a
+sha: 01b3fe8268767e972449476f2f70f1cfd8d28b7c3539301858601c856bc4c055
 files:
-    - path: .gboil.yml
-      sha: c8c32fed7e3819c0d43deff8b66a35b598ddb0f8182c5a237ac54cc861b33ab0
     - path: cmd/core/main.go
       sha: 0e6c936d48a18a0405ed0678b7c48c6ca058f498136a238087cb04ae30e2884c
     - path: cmd/services/service1.go
