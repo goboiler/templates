@@ -1,5 +1,7 @@
 name: python
-sha: ae9d26db1ace94dd2746c49c9821163ff4a8a78dbb7a17b59245abddd3258bae
+sha: d3b3b610aa2426f234add1585218a9a0b7f0d088ac3cc66511acf62f7771c41d
 files:
+    - path: .gboil.yml
+      sha: e74da7595d9889ae4b7d4d73a65351dc3c51b80aec8dd7dd02236791098f2272
     - path: main.py
       sha: d151ef4df1e28379bac91fb5c21376ed8d06db0a6b8b060448b2e0b9d51fbce1
