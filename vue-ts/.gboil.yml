@@ -1,0 +1,33 @@
+name: vue-ts
+sha: 73623f1306a0fe35570c8ff40120ee6bd3f77f52167402498ffb4e83372e4405
+files:
+    - path: .gitignore
+      sha: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
+    - path: .vscode/extensions.json
+      sha: 70d56b550e796e3ea92922763ae03037a1a94596fda9d737982c75f6a20e88dd
+    - path: README.md
+      sha: bdf5e82dc5366bc31845e4a4c039b39b85dc0599bb7e595bc903cf0c96d230b6
+    - path: index.html
+      sha: 751e35af2806cb982c5d38ddf9c420e845b879d3c99f1690687f299000bb6e4a
+    - path: package.json
+      sha: 5a67241797dd70c6b4a6395723fd4b5c2851a140f155bd63a9fbd5059eddd77a
+    - path: public/vite.svg
+      sha: 4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb
+    - path: src/App.vue
+      sha: 96c1d126d4ece356c51c76ccf8f2a00a9079124f7d4ca46bd0c9ac949120dbf3
+    - path: src/assets/vue.svg
+      sha: 5532db34f1c52841881bab8aeca6c3e8d092bd21a689a65f4d8f8cf8041eef9d
+    - path: src/components/HelloWorld.vue
+      sha: 8c444ed8e9e323bcd798b90a89817d9fed3c477341b7c2cf4c1c76b4f90dae63
+    - path: src/main.ts
+      sha: ae6eb9de53e72b97ee4c88fe88d2e982bf060266b2b82a0aa29ec859fa342019
+    - path: src/style.css
+      sha: f5d8faae860252c0f5ecfebd9b559b35d16899fd72683d4570c9ab15ef82e529
+    - path: src/vite-env.d.ts
+      sha: cb3a8a70a87f0b1872244cd0bbe5bb5ddd602d820b7766a4d515b04eab8c40c7
+    - path: tsconfig.json
+      sha: 5b6eb964969c1b58f7e930e811a928462edb192d74b9c0bb2827abc0234488ba
+    - path: tsconfig.node.json
+      sha: c40d0614fda5b8a746a1ba2e3be8e2370140c0167851ac77881cd53bb5647cdd
+    - path: vite.config.ts
+      sha: b88fa0c23f9e7d65f09caa480f7f0a1b82d9fe87db3564c3751253fe14d06b26
