@@ -1,0 +1,23 @@
+name: vanilla-ts
+sha: 585db5207ae2ae4919b492eb46e8e238d35af2f8d25081aee156b1478ad2e8bf
+files:
+    - path: .gitignore
+      sha: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
+    - path: index.html
+      sha: 391ac7aeb723f36207033046263f285cc0426080f86ad123e1b742b78a551da4
+    - path: package.json
+      sha: 772b82d41cf0305a1828e5cfcf8dc809080767d6f24742931232c148244c96c0
+    - path: public/vite.svg
+      sha: 4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb
+    - path: src/counter.ts
+      sha: 0b34c7ce1c209cfe0945a4a6208d0a921fd75914374e0c21ec0c5381327efab2
+    - path: src/main.ts
+      sha: dc9f1ac70ebcfd48f5cf0d056aca4fde9b0a274b5ae4315c5f02af4b7480e960
+    - path: src/style.css
+      sha: 8a4771c1f076b5274a1b9e9b4454af2baa52589fbdbd8c0a0605358013841988
+    - path: src/typescript.svg
+      sha: f6ead1af17acc3f55ad857f3bc936df8754281e2932c1b472dbb9b36ab873f1c
+    - path: src/vite-env.d.ts
+      sha: 65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5
+    - path: tsconfig.json
+      sha: 11a9597df9b8301ff7d29829cd083b3cbc24eb10b476e58f493347b3a88996ea
