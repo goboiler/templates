@@ -1,0 +1,23 @@
+name: react
+sha: 7c5afefa9d2f910ccf8e850e9774efacdd8426ce0def637853f60f8d46bb2337
+files:
+    - path: .gitignore
+      sha: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
+    - path: index.html
+      sha: 73a1cabe0c63fb2a6b4ec6151be8b7dc691bfbee9cf28ad8d9f24b9531882ac7
+    - path: package.json
+      sha: 22c43f9ad044540370a448b1dce4cf659ee64a87fa30a61fdab7da8162752737
+    - path: public/vite.svg
+      sha: 4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb
+    - path: src/App.css
+      sha: 26c0d679b5f0416f988d540dbbebc96f9277dd92905268cac6ff72e03fe6fed1
+    - path: src/App.jsx
+      sha: 0718c5601979d51599e213266817c3b9b875f739fc474626a835f92bc2170795
+    - path: src/assets/react.svg
+      sha: 35ef61ed53b323ae94a16a8ec659b3d0af3880698791133f23b084085ab1c2e5
+    - path: src/index.css
+      sha: 4e220ecbdab7ba7fac4ad0af08b375430e86ab0abb43528bf911e9550182bf24
+    - path: src/main.jsx
+      sha: 53f03aa9ee1d97ded058c2518b8eb557bdde4f32ef6116bed2c9528eb58b8faa
+    - path: vite.config.js
+      sha: a5680533c1f383c9ec024c9e71160ee79894f049457497cba29f5844db2bc358
