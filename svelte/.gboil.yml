@@ -1,0 +1,31 @@
+name: svelte
+sha: bcef42f461df0cfc00875bc138c7fa650f7b683d474127ba676c9890facb0c73
+files:
+    - path: .gitignore
+      sha: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
+    - path: .vscode/extensions.json
+      sha: d7a544abf54e307549d089c775f179a5b454c97f2143846c80d3f93fa64984b9
+    - path: README.md
+      sha: 1b0dd8b30bdf25c4a79bfb9aac09b8b74ddf280e0c05ae54539ee77ebf10dcfd
+    - path: index.html
+      sha: a2ae5b5c9445bf25b87b1febd14701921618ddd63dcf7c6e4692a0019c25b9d6
+    - path: jsconfig.json
+      sha: 1b908449afdda14719d2c42844bc13afb7920bd808d4f499f52d58fd0b16c765
+    - path: package.json
+      sha: 1e6e525398f8a1d66adcd6da2432b498c85720f9cb6e1927d763683187fa1007
+    - path: public/vite.svg
+      sha: 4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb
+    - path: src/App.svelte
+      sha: 3194e8d8f9b4a5dfec393b0ed3f0b443b7d96549e388edf09b2b468a673cc0de
+    - path: src/app.css
+      sha: bddb5bc0f2e07dd3d8f8a63db6ea971582e7ac3ee616f83edd7db370f7940a25
+    - path: src/assets/svelte.svg
+      sha: a39f39b75032527099aa1ede54ff2a507065e32e7329a1460a35a3a4d6ea88fe
+    - path: src/lib/Counter.svelte
+      sha: f780e0d473856204d9089c0c98caae73d522572054fbd7e351b4e84e1e0f6bd9
+    - path: src/main.js
+      sha: 59d30b3264489e293456d5c1114f84b4271015b787ffe06fe792ed8c5a877675
+    - path: src/vite-env.d.ts
+      sha: cc9c01ab82cd866d596b11028637a284c3cca4b115d2aa5a02c31d2c59977fc1
+    - path: vite.config.js
+      sha: 267b5e46c531be0850680912fba7654ec06398e647351023396c39f37283c111
