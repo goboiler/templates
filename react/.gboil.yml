@@ -1,8 +1,6 @@
 name: react
-sha: 17534dfe2ca88bff3a3eb7614e3647a3a39db74655537b241b07428c6ed329ca
+sha: 7c5afefa9d2f910ccf8e850e9774efacdd8426ce0def637853f60f8d46bb2337
 files:
-    - path: .gboil.yml
-      sha: 75d0c02de6f655b4bf192b35b9672a4986abf12025e2b0739b586e4569353ef0
     - path: .gitignore
       sha: fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8
     - path: index.html
