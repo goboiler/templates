@@ -1,0 +1,87 @@
+name: daisyui-react
+sha: 25075fea03d4e3d9905cd885a678d2d97047008d436cbf716b11d09db06ffee3
+files:
+    - path: .github\dependabot.yml
+      sha: 608c680c7f3c4e554ca1ece656c9187ef5036c9711712b4c81ec60afb8e8d720
+    - path: .github\workflows\build.yml
+      sha: 6d69fd6425256d3213d26470f0247fbc1f4baf9f762af5c6b6576324fe535482
+    - path: .github\workflows\dependency-review.yml
+      sha: 943ed0d4cdc219b79ff2c15f4029486415494fcc2fc339856f0b771e7c77dd73
+    - path: .github\workflows\deploy.yml
+      sha: a50c9bb77a2e7eba0e8e147eebd7ac2f9c564f59bb5caad3d22ea11b7be1a0fc
+    - path: .github\workflows\lint.yml
+      sha: 22e12aceac4db8eb77c48da04400d301af7a553c3d6cbfab881661077d54111e
+    - path: .gitignore
+      sha: 329eae05b3267397e47543eb456ba1ca388258cb2d7238db3e70b9df2a7679d7
+    - path: .vscode\extensions.json
+      sha: 75147706898c29ad1ddb992aca88d0dfffaf509d150dbe865bc060e9165ff613
+    - path: .vscode\settings.json
+      sha: d9f5713136660d35e990aa558d57a95285acc10f5e981d166025c4fc9ffa1cd9
+    - path: README.md
+      sha: 3e73ca00b6f1eaf890e5d2f059bcfe8ae07036e1d9c6d2c54d73de3e950fc4a4
+    - path: config\.eslintrc.json
+      sha: fd539166c2c4290a51e5f44d2cd8d3c0ad55dafc18848cc9ddd20c24c94aace1
+    - path: config\postcss.config.cjs
+      sha: 686acfab35c00e39d68e0d56d6ece40cf9ed2f037e1d23fff2f48ede9795814e
+    - path: config\tailwind.config.cjs
+      sha: dc2c871cc8b78ca639747471141e3274c7c75009ef783a4840e69f8530c07301
+    - path: index.html
+      sha: ec50385e730cb8f91483f7840850541e4e3b8189e9037fb0371785eaf360707f
+    - path: package.json
+      sha: ba3a16994a0bcc65eafdc52d51a96e1f7db9bb5a68e7d0476fffd94b649c153f
+    - path: public\Logo.svg
+      sha: 0f3f7218f762c49c93f9a4f2492be10bfc7f5475802365e61b314945516518fa
+    - path: public\vite.svg
+      sha: 4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb
+    - path: src\App.tsx
+      sha: 941586beda364ce937f5ab90bfe5c51a522dd1a6e5e17104b20528e78a1f9fc3
+    - path: src\api\ReactQueryClient.tsx
+      sha: 27d43935de764a6c97ac4e1174c017755d851be01b638c3d18a342c2e3aee6cb
+    - path: src\components\utils\ComponentContainer.tsx
+      sha: 4c434b2f38218ebb1260bceca7c6a148266358edd476f80f6133e6d791a5d4bd
+    - path: src\components\utils\PageLoading.tsx
+      sha: 735b315a4bec80817d45776a5586a77889889f99d9766dd6e99fca5ac474dff0
+    - path: src\index.css
+      sha: 8164a9d24cadcfa1364c32c7fa336e463da1ed04249b08ba8e652ed148794306
+    - path: src\main.tsx
+      sha: 9d9001a75bcf6eae00c500870f1b934e512d19df170fa33cfb0066db9d7dfe73
+    - path: src\pages\ThemePage.tsx
+      sha: bfc7cb30bc1202dcce0ab6bce095d33f765eab2e69a9e07875bbddd35a681258
+    - path: src\router.tsx
+      sha: ceee7500b3bea53ca7db3f023239f47feb6babb04e19f1aff83d505744ec58d1
+    - path: src\theme\Alerts.tsx
+      sha: 02b04d9e8498d31a0e6dc0e00e95d214dba90d93507258480272b3d26eaa6da8
+    - path: src\theme\Avatars.tsx
+      sha: 9019ff278f4d6967ba810a30612696ef7f6ffbab7feae606193e7c2a5ef36927
+    - path: src\theme\Badges.tsx
+      sha: a6109a6a7f3c481e3d6a1297c658fc4aaaf88050758f4fea8ffb2903fa2705f5
+    - path: src\theme\Buttons.tsx
+      sha: d56028895477daa644e2e4c214297b974156fd8b3ca24514e45344b7a1be0bf0
+    - path: src\theme\Chat.tsx
+      sha: 4f6dc58023641bf27c65c86572e35c3cdae63b50f02c9f05cd45604691c59491
+    - path: src\theme\Inputs.tsx
+      sha: 81bc2cf461c3480414f81ef28b062b3da167fc68398820f8c8487fa8a5c3058d
+    - path: src\theme\Keyboard.tsx
+      sha: f7523e367a391d05ba7047c8eba78b54325897d9393925adbeb9634c0ad43b4f
+    - path: src\theme\Navbar.tsx
+      sha: 76873435ca0048c9c3fff18d55dc5d4b51acd19890fa8cc2ce5783027e1fbdf4
+    - path: src\theme\Progress.tsx
+      sha: 61dfcee86d5fdab0264ae7e5a3a47535cbadc4c524765f35150b1a18aa4d9f0e
+    - path: src\theme\Stats.tsx
+      sha: 6ac0e5f5cab2147ac9376827496a608d78bc60145a9745be03c2e3744fc1cb4e
+    - path: src\theme\Steps.tsx
+      sha: 4a5db4b1e5a634e4036556fcfd95725aae3346482a8279d2c4ac0f91fe437d95
+    - path: src\theme\Text.tsx
+      sha: adfc59544366ecd9240f0f884b6eeba5a2c47f9905a8447d638871c1c46373c3
+    - path: src\theme\index.ts
+      sha: 66d5493aee261b3c62e41a0db28c0f58cd38ca8e9e90daf893f018a3a941798e
+    - path: src\vite-env.d.ts
+      sha: 873ad225700e5fe22f573e0c0e6b77ea17224b6873dd87aa1de53aa00c346c8a
+    - path: tsconfig.json
+      sha: a33d2d243d561e69e7886cb7ef8d6769408bc111978ddbf97c06c66754870067
+    - path: tsconfig.node.json
+      sha: 015b7ab21eed3624dae10b4e2229d9516826d211df090287812c98be48a0ee2e
+    - path: vite.config.ts
+      sha: db49f12502ea83684112b8210535bc8379bfbd26ebb2eb888d4b0c069b88af81
+    - path: yarn.lock
+      sha: ef9e5ca927649695c87a7ce01962a91d4dcd013c475db7052d17d487325417cc
